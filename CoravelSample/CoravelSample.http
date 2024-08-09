@@ -1,0 +1,6 @@
+@CoravelSample_HostAddress = http://localhost:5192
+
+GET {{CoravelSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
